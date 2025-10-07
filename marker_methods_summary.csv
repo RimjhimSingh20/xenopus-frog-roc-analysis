@@ -1,0 +1,4 @@
+Method,N_Significant,Top_5
+Wilcoxon,100,"tp63.L,lef1.L,mdk.L,col14a1.L,col14a1.S"
+T-test,100,"mdk.S,epcam.L,s100a11.L,pfn1.S,krt12.L"
+LogReg,100,"tp63.L,lef1.L,col17a1.L,rps27a.L,Xelaev18036222m.g"
