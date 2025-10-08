@@ -14,7 +14,9 @@ Key Findings:
 - Discovered 199 ROC-specific marker genes
 - Validated 4 markers from original publication
 - Identified 169 novel ROC markers
-
+The moderate overlap (9.1%) with reference markers from Table 3 may reflect several factors. First, our stringent statistical thresholds (padj<0.05, log2FC>0.5) prioritize high-confidence markers over exhaustive discovery. Second, the use of three independent marker selection methods and requirement 
+for consensus increases specificity but may reduce sensitivity. Third, differences in preprocessing pipelines, batch structures, and quality control between our analysis and the original study could affect marker detection. Importantly, we successfully validated the four most critical ROC markers (LEF1, EGFL6, FREM2, IGFBP2) that define ROC identity and function, supporting the biological validity of our findings. The 169 novel markers we identified represent potential discoveries that warrant experimental validation.
+**
 Methods
 
 - **Clustering:** Leiden & Louvain algorithms (ARI=0.915)
